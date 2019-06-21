@@ -8,7 +8,7 @@ import Recipe from "./Recipe";
 
 class Recipies extends Component {
   state = {
-    search: "potato",
+    search: "",
     from: "",
     to: "",
     recipes: ""
